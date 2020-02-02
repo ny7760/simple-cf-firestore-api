@@ -1,0 +1,9 @@
+roundDown.py
+roundDown2.py
+pip-selfcheck.json
+pyvenv.cfg
+/lib/
+/include/
+/bin/
+/.auth/
+*pycache*
